@@ -1,2 +1,3 @@
-var greet = 'Hello, world!';
+"use strict";
+const greet = 'Hello, world!';
 console.log(greet);
