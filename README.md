@@ -1,6 +1,13 @@
 ## react_tutorial
 Reactを使ってみるリポジトリ
 
+### fmt
+formatter, linterの設定はpackage.jsonの"scripts"内に記述.<br>
+`npm run fmt`
+
+### lint
+`npm run lint`
+
 
 ### test
 ---
